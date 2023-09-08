@@ -1,0 +1,10 @@
+C:\Users\gaura\projects-backend\registration-login-spring-Boot-security-Thymleaf\src\main\java\com\project\structure\repository\UserRepository.java
+C:\Users\gaura\projects-backend\registration-login-spring-Boot-security-Thymleaf\src\main\java\com\project\structure\model\Role.java
+C:\Users\gaura\projects-backend\registration-login-spring-Boot-security-Thymleaf\src\main\java\com\project\structure\web\UserRegistrationController.java
+C:\Users\gaura\projects-backend\registration-login-spring-Boot-security-Thymleaf\src\main\java\com\project\structure\config\SecurityConfiguration.java
+C:\Users\gaura\projects-backend\registration-login-spring-Boot-security-Thymleaf\src\main\java\com\project\structure\RegistrationLoginSpringBootSecurityThymleafApplication.java
+C:\Users\gaura\projects-backend\registration-login-spring-Boot-security-Thymleaf\src\main\java\com\project\structure\service\UserServiceImpl.java
+C:\Users\gaura\projects-backend\registration-login-spring-Boot-security-Thymleaf\src\main\java\com\project\structure\model\User.java
+C:\Users\gaura\projects-backend\registration-login-spring-Boot-security-Thymleaf\src\main\java\com\project\structure\web\dto\UserRegistrationDto.java
+C:\Users\gaura\projects-backend\registration-login-spring-Boot-security-Thymleaf\src\main\java\com\project\structure\service\UserService.java
+C:\Users\gaura\projects-backend\registration-login-spring-Boot-security-Thymleaf\src\main\java\com\project\structure\web\MainController.java
